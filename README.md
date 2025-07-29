@@ -10,6 +10,9 @@ Registro de Cambios a Realizar
 /Favoritos
 /Logo de Carga
 
+- No funciona
+/Panel de Vendedor
+
 - Correcciones
 /Validaciones de Productos (cantidad)
 /Imágenes de las publicaciones
