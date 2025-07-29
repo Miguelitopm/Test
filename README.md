@@ -5,7 +5,7 @@
 - Cuadrar precio
 - Wallet
 - Parte Monetaria
-- - Deposito a Wallet
+  - Deposito a Wallet
   - Verificacion de Pago
   - Trato general del Dinero
 
