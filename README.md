@@ -1,23 +1,23 @@
 Registro de Cambios a Realizar
 
 - Funciones
-Trueque
-Cuadrar precio
-Wallet
+/Trueque
+/Cuadrar precio
+/Wallet
 
 - Cambios
-Carrito
-Favoritos
-Logo de Carga
+/Carrito
+/Favoritos
+/Logo de Carga
 
 - Correcciones
-Validaciones de Productos (cantidad)
-Imágenes de las publicaciones
+/Validaciones de Productos (cantidad)
+/Imágenes de las publicaciones
 
 - Cambios Globales
-Eliminar opción Carrito
+/Eliminar opción Carrito
 
 - Próximamente
-Roll Administrador (con sus funciones)
-Aceptar publicaciones
+/Roll Administrador (con sus funciones)
+/Aceptar publicaciones
 Dar de baja
