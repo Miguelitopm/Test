@@ -1,6 +1,6 @@
 Registro de Cambios a Realizar
 
-- Funciones
+# Funciones
 /Trueque
 /Cuadrar precio
 /Wallet
