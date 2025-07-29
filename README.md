@@ -12,6 +12,7 @@
 
 ## No funciona
 - Panel de Vendedor
+- Seccion AyudaFooter (Todas las opciones llevan a sell.php)
 
 ## Correcciones
 - Validaciones de Productos (cantidad)
