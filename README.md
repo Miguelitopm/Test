@@ -12,6 +12,7 @@
 
 ## No funciona
 - Panel de Vendedor
+- Perfil de Vendedor (ambos problemas con seller.php)
 - Seccion AyudaFooter (Todas las opciones llevan a sell.php)
 
 ## Correcciones
